@@ -1,6 +1,6 @@
 # Expense Management System
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+This project is a full-stack expense management platform built with a Streamlit-based frontend interface and a FastAPI-powered backend service. The system is designed to provide reliable expense tracking, secure data handling, and efficient API-driven communication between the user interface and server-side business logic, ensuring scalable and maintainable financial data management for end users.
 
 
 ## Project Structure
@@ -30,4 +30,5 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
+
    ```
